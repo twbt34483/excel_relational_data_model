@@ -30,3 +30,4 @@ Pivot Table
 To transform scattered raw data into a well-structured and relational dataset in Excel.
 
 🔗 LinkedIn 
+www.linkedin.com/in/ahmed-abdelaziz-51873236a
